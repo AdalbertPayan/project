@@ -2,6 +2,7 @@ GRADERS:
 Cleaning process is found in accident.ipynb
 Excel Map Chart found in Map Chart for Project 2.xlsx
 PowerPoint presentation found in project_accidnent.potx
+Group Members are Adalbert Payan, Jonathan Rudamas, Evan Burgett and Frank Polus
 
 
 Introduction
